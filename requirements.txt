@@ -1,0 +1,4 @@
+requests
+Pillow
+RPI.GPIO
+spidev
